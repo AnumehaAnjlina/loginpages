@@ -1,0 +1,12 @@
+.AnyReactComponent {
+    color: 'white'; 
+    background: 'grey';
+    padding: '15px 10px';
+    display: 'inline-flex';
+    text-Align: 'center';
+    align-Items: 'center';
+    justify-Content: 'center';
+    border-Radius: '100%';
+    transform: 'translate(-50%, -50%)'
+}
+
